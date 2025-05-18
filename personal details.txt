@@ -2,5 +2,4 @@
  name : ashika.v
  class: 2nd bca
  roll no: 23bcac14
- college : Kristu jayanti college
-address : Thanisandra
+ 
